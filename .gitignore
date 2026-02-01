@@ -32,5 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 
-/mnt/d/Languages and Develoment/my_projects/MobileApp/React-Native-Wallet/backend/native_wallet/src/main/resources/application.properties
-src/main/resources/application.properties
+# /mnt/d/Languages and Develoment/my_projects/MobileApp/React-Native-Wallet/backend/native_wallet/src/main/resources/application.properties
+# src/main/resources/application.properties
