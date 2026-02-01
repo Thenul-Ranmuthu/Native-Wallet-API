@@ -11,7 +11,7 @@
 	<groupId>com.native_wallet</groupId>
 	<artifactId>native_wallet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>native_wallet</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
