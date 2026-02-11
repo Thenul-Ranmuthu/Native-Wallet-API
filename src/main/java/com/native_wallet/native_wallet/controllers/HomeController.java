@@ -10,8 +10,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 @AllArgsConstructor
 public class HomeController {
     @GetMapping("/")
-    public String Home() {
-        return "This is the root of the backend !!";
+    public String home() {
+        System.out.println("Cron jobs working!!");
+        return "This is the root of the backend !!\n";
     }
     
 }
